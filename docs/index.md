@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Logan Kearl's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Logan Kearl
+A Senior at Brigham Young University-Idaho.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,32 +16,32 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2021`
+__Snow College__, Ephraim, UT
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Full academic scholarship with 4.0 GPA
 
 
 ## Related Experience
 
-### Internships
+### Tax Internship
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2022 - April 2022`
+__Dixon Hughes Goodman__, High Point, NC
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
 - Published a journal article in Environmental Quality.
 
-### Data Science Lead
+### Accounting Assitant
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2020 - May 2021`
+__Snow College__, Ephraim, Utah
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
