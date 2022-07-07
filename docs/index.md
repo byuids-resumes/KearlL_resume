@@ -20,6 +20,7 @@ A Senior at Brigham Young University-Idaho.
 __Snow College__, Ephraim, UT
 
 - Full academic scholarship with 4.0 GPA
+- Basic Accounting Certificate
 
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
